@@ -1,4 +1,4 @@
 #trillo project
 
 
-book rooms in hostels
+book rooms in hotels
